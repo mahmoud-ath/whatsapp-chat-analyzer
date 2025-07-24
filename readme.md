@@ -67,7 +67,6 @@ Or, if you use a tunnel (e.g., DevTunnel), access via the provided public URL.
 | ------------------------------------- |  
 | ![overview](screenshots/overview.jpg) | 
 
-*(Add your screenshots in the `screenshots/` folder)*
 
 ---
 
