@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+emoji
+altair
