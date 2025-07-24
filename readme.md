@@ -65,7 +65,7 @@ Or, if you use a tunnel (e.g., DevTunnel), access via the provided public URL.
 
 | Dashboard Overview                  
 | ------------------------------------- |  
-| ![overview](screenshots/overview.png) | 
+| ![overview](screenshots/overview.jpg) | 
 
 *(Add your screenshots in the `screenshots/` folder)*
 
