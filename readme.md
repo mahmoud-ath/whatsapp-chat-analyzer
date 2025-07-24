@@ -57,7 +57,6 @@ streamlit run app.py
 Open your browser to:
 `http://localhost:8501`
 
-Or, if you use a tunnel (e.g., DevTunnel), access via the provided public URL.
 
 ---
 
